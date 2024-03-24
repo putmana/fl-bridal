@@ -14,7 +14,7 @@
 		border: 1px solid colors.$primary;
 		color: colors.$text-a;
 		font-family: inherit;
-		font-size: 0.75rem;
+		font-size: 1rem;
 		font-weight: 600;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
